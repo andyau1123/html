@@ -1,0 +1,45 @@
+body {
+    min-height: 2000px;
+    padding-top: 70px;
+  }
+
+#index:hover, #programme:hover, #speakers:hover, #organisation:hover, #download:hover, #contact-us:hover, #sponsor:hover, #technical_visit:hover {
+  font-weight: 500 !important;
+}
+
+@keyframes slidein {
+  from {transform: translateX(-50%);}
+  to {transform: translateX(0);}
+}
+
+#navbar {
+  animation-name: slidein, fadein;
+  animation-duration: 1s;
+}
+
+@keyframes fadein {
+  from {opacity: 0%;}
+  to {opacity: 100%;}
+}
+
+#banner {
+  animation-name: fadein;
+  animation-duration: 1.5s;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 12px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
