@@ -154,7 +154,7 @@
                             <b>Keynote Speech (3) </b><br/>
 							<b><u>Dr. Christelle Not </u></b></br>
 							<b>Senior Lecturer, University of Hong Kong</b></br>
-							<b>Topic: Food Waste Upcycling</b>
+							<b>Topic: Food Waste Packaging</b>
                         </td>                           
                     </tr>
 
@@ -198,8 +198,8 @@
                         <td colspan="7" style="text-align:left;line-height: 1.8">
                             <b>Keynote Speech (6) </b><br/>
                             <b><u>Mr. Eddie Wong </u></b><br/>
-                            <b>Head of Material Management at Boardriders</b></br>
-							<b>Topic: The Role of Academia, Industrial and the General Public as an Agent for Change in Fast Fashion Waste Management</b>
+                            <b>Director, Raw Material & Color Management of The Children’s Place</b></br>
+							<b>Topic: The Role of Academia, Industrial and the General Public as an Agent for Change in Fast Fashion Waste Management </b>
                        </td>
 					   <td colspan="1" rowspan="7" class="lastcol"><b>WK campus (Room: WK-N201)</b></td>
 					</tr>
@@ -218,8 +218,8 @@
                         <td colspan="1" class="firstcol"><b>15:00-15:30</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
                             <b>Keynote Speech (8) </b><br/>
-                            <b><u>Ms. Sabina Cheung</u></b><br/>
-                            <b>Senior Product (& Design) Manager of EVISU GROUP LTD.</b></br>
+                            <b><u>Mr. Alex Hung, MH</u></b><br/>
+                            <b>CEO of Crossover International Co. Ltd</b></br>
 							<b>Topic: The Future of Sustainable Fashion: Waste Management in Material, Design and Technology</b>
                        </td>
 					</tr>
@@ -303,8 +303,8 @@
                         <td colspan="7" style="text-align:left;line-height: 1.8">
                             <b>Keynote Speech (12)</b><br/>
                             <b><u>Mr. John Yu </u></b><br/>
-                            <b>Manager, Professional Member of Hong Kong Sea Transport and Logistics Association (HKSTLA); Head of Operations, Aramex Hong Kong Limited</b></br>
-							<b>Topic:  Achieving Resilience and Sustainability for the Electric Vehicle Battery Supply Chain</b>
+                            <b>Head of Operations, Aramex Hong Kong Limited</b></br>
+							<b>Topic:  Navigating the Path to Sustainability: Aramex's Journey</b>
                        </td>
 					</tr>
 					
@@ -331,7 +331,7 @@
                             <b>Keynote Speech (14)</b><br/>
                             <b><u>Dr. Andrew Wu </u></b><br/>
                             <b>Lecturer, The School of Professional Education and Executive Development, The Hong Kong Polytechnic University</b></br>
-							<b>Topic: Promotion of Electric Vehicle in Smart City: The Establishment of Electric Vehicle Battery Waste Management </b>
+							<b>Topic: Promotion of electric vehicles in smart city</b>
                        </td>
 					</tr>
 					
@@ -404,7 +404,7 @@
                         <td colspan="7" style="text-align:left;line-height: 1.8">
                             <b>Keynote Speech (19)</b><br/>
                             <b><u>Mr. Henry Ngai </u></b><br/>
-                            <b>CEO of Hong Kong Organic Waste Recycling Centre</b></br>
+                            <b>CEO of BE Green Technology Limited</b></br>
 							<b>Topic: The Technology, Development, and Market Application of Smart Recycling</b>
                        </td>
 					</tr>
