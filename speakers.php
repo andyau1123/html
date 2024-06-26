@@ -169,12 +169,12 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/Sabina_Cheung.jpeg" style="width:100%">
+						<img src="images/speakers/Alex_Hung.png" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Ms. Sabina Cheung</a> <br>
+						<a href="#" target="_blank">Mr. Alex Hung</a> <br>
 						Senior Product (& Design) Manager of EVISU Group Ltd.
 					</p>
 					<blockquote class="speaker_topics">The Future of Sustainable Fashion: Waste Management in Material, Design and Technology</blockquote>
@@ -214,21 +214,6 @@
 			
 			<h3 class="section_heading" style="text-align: center;">Electric Vehicle Waste</h3>
 			<!-- Keynote Speakers - SECTION Electric Vehicle Waste - START  -->
-			<div class="row speaker">
-				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/Kenny_So.jpeg" style="width:100%">
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
-					<p>
-						<a href="#" target="_blank">Mr. Kenny So </a> <br>
-						General Manager (Engineering), Citybus/New World First Bus
-					</p>
-					<blockquote class="speaker_topics">Mission Zero of Citybus</blockquote>
-				</div>
-			</div>
-			
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
