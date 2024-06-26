@@ -432,7 +432,7 @@
                
 
                     <!-- <tr>
-                        <td colspan="1" width="20%"><b>10:45 -11:45</b></td>
+                        <td colspan="1" width="20%"><b>10:45 -11:45</b></td>ksfndas
                         <td colspan="4" style="display: flex;justify-content: space-around;flex-wrap: nowrap;">
                             <div style="width: 20%;display: block;text-align:center;padding: 15px 8px;min-width: 150px;">
                                 <b>Research Methodology Workshop 1:</b>
