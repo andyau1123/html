@@ -145,7 +145,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
 						<a href="#" target="_blank">Mr. Eddie Wong </a> <br>
-						Head of Material Management at Boardriders
+						Director, Raw Material & Color Management of The Children’s Place
 					</p>
 					<blockquote class="speaker_topics">The Role of Academia, Industrial and the General Public as an Agent for Change in Fast Fashion Waste Management</blockquote>
 				</div>
@@ -175,7 +175,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
 						<a href="#" target="_blank">Mr. Alex Hung</a> <br>
-						Senior Product (& Design) Manager of EVISU Group Ltd.
+						CEO of Crossover International Co. Ltd
 					</p>
 					<blockquote class="speaker_topics">The Future of Sustainable Fashion: Waste Management in Material, Design and Technology</blockquote>
 				</div>
@@ -361,7 +361,7 @@
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
 						<a href="#" target="_blank">Mr. Henry Ngai </a> <br>
-						CEO of Hong Kong Organic Waste Recycling Centre
+						CEO of BE Green Technology Limited
 					</p>
 					<blockquote class="speaker_topics">The Technology, Development, and Market Application of Smart Recycling</blockquote>
 				</div>
