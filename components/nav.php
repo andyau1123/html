@@ -9,7 +9,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand visible-xs" href="#" style="color: #ffffff;"> Conference 2023</a>
+            <a class="navbar-brand visible-xs" href="#" style="color: #ffffff;"> Conference 2024</a>
         </div>
 
         <div id="navbar" class="navbar-collapse collapse navbar-inner">

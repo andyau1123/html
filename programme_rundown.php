@@ -287,11 +287,19 @@
 						<td colspan="1" rowspan="7" class="lastcol"><b>WK campus (Room: WK-N201)</b></td>
                     </tr>
 					
+					<tr>
+                        <td colspan="1" class="firstcol"><b>09:30-10:00</b></td>
+                        <td colspan="7" style="text-align:left;line-height: 1.8">
+                            <b>Keynote Speech (10)</b><br/>
+                            <b><u>TBC</u></b><br/>
+                           
+                       </td>
+					</tr>
 					
 					<tr>
                         <td colspan="1" class="firstcol"><b>10:00-10:30</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
-                            <b>Keynote Speech (11)</b><br/>
+                            <b>Keynote Speech (12)</b><br/>
                             <b><u>Mr. John Yu </u></b><br/>
                             <b>Head of Operations, Aramex Hong Kong Limited</b></br>
 							<b>Topic:  Navigating the Path to Sustainability: Aramex's Journey</b>
@@ -308,17 +316,17 @@
 					<tr>
                         <td colspan="1" class="firstcol"><b>10:45-11:15</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
-                            <b>Keynote Speech (12)</b><br/>
-                            <b><u>Mr. Clement Chow </u></b><br/>
-                            <b>Certified ESG Planner CEP®</b></br>
-							<b>Topic: ESG in the Electric Vehicle Industry</b>
+                            <b>Keynote Speech (13)</b><br/>
+                            <b><u>Dr. XIE Siqi, Seakay </u></b><br/>
+                            <b>Senior Engineer, AECOM Asia Co. Ltd.</b></br>
+							<b>Topic: Environmental-friendly Transport Services in Hong Kong</b>
                        </td>
 					</tr>
 					
 					<tr>
                         <td colspan="1" class="firstcol"><b>11:15-11:45</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
-                            <b>Keynote Speech (13)</b><br/>
+                            <b>Keynote Speech (14)</b><br/>
                             <b><u>Dr. Andrew Wu </u></b><br/>
                             <b>Lecturer, The School of Professional Education and Executive Development, The Hong Kong Polytechnic University</b></br>
 							<b>Topic: Promotion of electric vehicles in smart city</b>
@@ -328,7 +336,7 @@
 					<tr>
                         <td colspan="1" class="firstcol"><b>11:45-12:15</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
-                            <b>Keynote Speech (14)</b><br/>
+                            <b>Keynote Speech (15)</b><br/>
                             <b><u>Mr. Jerrik Wong </u></b><br/>
                             <b>Assistant Business Development Manager, Li Tong Group</b></br>
 							<b>Topic: Closed Loop Electric Vehicle Battery Recycling Solution</b>
@@ -350,22 +358,21 @@
 					</td>
 					</tr>
 					
-					
 					<tr>
                         <td colspan="1" class="firstcol"><b>14:00-14:30</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
-                            <b>Keynote Speech (15)</b><br/>
-                            <b><u>Dr. XIE Siqi, Seakay </u></b><br/>
-                            <b>Senior Engineer, AECOM Asia Co. Ltd.</b></br>
-							<b>Topic: Environmental-friendly Transport Services in Hong Kong</b>
+                            <b>Keynote Speech (16)</b><br/>
+                            <b><u>Mr. Clement Chow </u></b><br/>
+                            <b>Certified ESG Planner CEP®</b></br>
+							<b>Topic: ESG in the Electric Vehicle Industry</b>
                        </td>
 					   <td colspan="1" rowspan="7" class="lastcol"><b>WK campus (Room: WK-N201)</b></td>
 					</tr>
-					
+									
 					<tr>
                         <td colspan="1" class="firstcol"><b>14:30-15:00</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
-                            <b>Keynote Speech (16)</b><br/>
+                            <b>Keynote Speech (17)</b><br/>
                             <b><u>Mr. Lok Ka Ming </u></b><br/>
                             <b>Treasurer of the Hong Kong Waste Management Association (HKWMA); Co-founder, EnviPro Technology Co. Ltd.</b></br>
 							<b>Topic: Odour Control in Hong Kong - Experience Sharing</b>
@@ -375,7 +382,7 @@
 					<tr>
                         <td colspan="1" class="firstcol"><b>15:00-15:30</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
-                            <b>Keynote Speech (17)</b><br/>
+                            <b>Keynote Speech (18)</b><br/>
                             <b><u>Dr. Nicole Yiu </u></b><br/>
                             <b>Lecturer, Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University</b></br>
 							<b>Topic: Environmental Management System in Hong Kong Construction Sector</b>
@@ -392,7 +399,7 @@
 					<tr>
                         <td colspan="1" class="firstcol"><b>16:00-16:30</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
-                            <b>Keynote Speech (18)</b><br/>
+                            <b>Keynote Speech (19)</b><br/>
                             <b><u>Mr. Henry Ngai </u></b><br/>
                             <b>CEO of BE Green Technology Limited</b></br>
 							<b>Topic: The Technology, Development, and Market Application of Smart Recycling</b>
@@ -402,7 +409,7 @@
 					<tr>
                         <td colspan="1" class="firstcol"><b>16:30-17:00</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
-                            <b>Keynote Speech (19)</b><br/>
+                            <b>Keynote Speech (20)</b><br/>
                             <b><u>Mr. Jacky Fong </u></b><br/>
                             <b>Architect, P&T Architects Limited</b></br>
 							<b>Topic: “Living” Architecture – Introduction to Construction Waste & How Architecture Can Be Environmentally Friendly Both Actively & Passively?</b>
@@ -412,26 +419,26 @@
 					<tr>
                         <td colspan="1" class="firstcol"><b>17:00-17:30</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
-                            <b>Keynote Speech (20)</b><br/>
-                            <b><u>Dr. Quennie Liu </u></b><br/>
-                            <b>Senior Sustainability Manager, A Plastic Ocean Foundation</b></br>
-							<b>Topic: The Potential of Alternative Materials in Replacing Sea Sands</b>
+                            <b>Keynote Speech (21)</b><br/>
+                            <b><u>Mr. Shervin Sharghy</u></b><br/>
+                            <b>Industry Advisor (Circular Economy and Recycling) of A Plastic Ocean Foundation, Co-founder and CEO of EcoBricks</b></br>
+							<b>Topic: From Plastic to Bricks - innovative use of plastic waste</b>
+                       </td>
+					</tr>
+					<!--
+					<tr>
+                        <td colspan="1" class="firstcol"><b>17:30-18:00</b></td>
+                        <td colspan="7" style="text-align:left;line-height: 1.8">
+                            <b>Keynote Speech (21)</b><br/>
+                            <b><u>Mr. Clement Chow </u></b><br/>
+                            <b>Certified ESG Planner CEP®</b></br>
+							<b>Topic: ESG in the Electric Vehicle Industry</b>
                        </td>
 					</tr>
 				
 				
 				
-				
-				
-				
-				
-				
-
-                    
-
-               
-
-                    <!-- <tr>
+                     <tr>
                         <td colspan="1" width="20%"><b>10:45 -11:45</b></td>ksfndas
                         <td colspan="4" style="display: flex;justify-content: space-around;flex-wrap: nowrap;">
                             <div style="width: 20%;display: block;text-align:center;padding: 15px 8px;min-width: 150px;">

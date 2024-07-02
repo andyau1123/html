@@ -114,14 +114,23 @@
       <a href="downloads/Flyer.pdf" target="_blank" download style="display: block; width: fit-content;"><img style="width:100%;max-width:200px;margin-bottom:10%" src="images/downloadbtn.png" alt="download" /></a>
       <hr/>
       <!-- Conf Photo Gallery -->
-      <h3 style="border-left: solid 5px green;padding-left: 10px;">Conferece Photos</h3>
+      <h3 style="border-left: solid 5px green;padding-left: 10px;">Workshop Photos</h3>
       <!-- Day 1 -->
-      <h4>Day 1<span><i>(<a href="" target="_blank">Click here</a> to access all photos of day 1)</i></span></h4>
+      <h4>7th June 2024<span><i>(<a href="https://1drv.ms/f/s!Ao-HQKrMSwKAa07ZPldUpSdN4A4?e=A28RYT" target="_blank">Click here</a> to access all photos of the day)</i></span></h4>
       <div class="swiper">
         <div class="swiper-wrapper">
-          <div class="swiper-slide"><img src=""></div>
-          <div class="swiper-slide"><img src=""></div>
-          <div class="swiper-slide"><img src=""></div>
+		  <div class="swiper-slide"><img src="images/workshop_photo/Q&A/DSCF4082.jpg"></div>
+		  <div class="swiper-slide"><img src="images/workshop_photo/other/DSCF3908.jpg"></div>
+          <div class="swiper-slide"><img src="images/workshop_photo/squence 1/DSCF3739.jpg"></div>
+          <div class="swiper-slide"><img src="images/workshop_photo/squence 1/DSCF3768.jpg"></div>
+          <div class="swiper-slide"><img src="images/workshop_photo/squence 1/DSCF3804.jpg"></div>
+		  <div class="swiper-slide"><img src="images/workshop_photo/squence 2/DSCF3742.jpg"></div>
+		  <div class="swiper-slide"><img src="images/workshop_photo/squence 2/DSCF3844.jpg"></div>
+		  <div class="swiper-slide"><img src="images/workshop_photo/squence 2/DSCF3870.jpg"></div>
+		  <div class="swiper-slide"><img src="images/workshop_photo/Q&A/DSCF4033.jpg"></div>
+		  <div class="swiper-slide"><img src="images/workshop_photo/Q&A/DSCF3927.jpg"></div>
+		  <div class="swiper-slide"><img src="images/workshop_photo/Q&A/DSCF3960.jpg"></div>	
+		  
         </div>
         <!-- slider navigation buttons -->
         <div class="swiper-button-prev"></div>
@@ -161,9 +170,14 @@
       <hr/>
 
       <!-- Conf Videos -->
-      <h3 style="border-left: solid 5px green;padding-left: 10px;">Conferece Videos</h3>
+      <h3 style="border-left: solid 5px green;padding-left: 10px;">Conference Videos</h3>
       <h4>7 June Workshop</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OUF4ob60a88?si=2t2A7V_Z9AhsSilj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="958" height="539" src="https://www.youtube.com/embed/OUF4ob60a88" title="Employability Skill Workshop 2024 - Waste Management Industry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</br>
+<hr/>
+</br>
+	  <h4>Full Video Recording of Workshop</h4>
+<iframe width="958" height="539" src="https://www.youtube.com/embed/scBBy6ZfOqQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>	  
 	  <!--
       <div class="container">
         <div class="row">

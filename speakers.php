@@ -169,7 +169,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/Alex_Hung.png" style="width:100%">
+						<img src="images/speakers/Alex_Hung.jpeg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -217,7 +217,7 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/placeholder.png" style="width:100%">
+						<img src="images/speakers/Jerrik.jpeg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
@@ -225,7 +225,7 @@
 						<a href="#" target="_blank">Mr. Jerrik Wong </a> <br>
 						Assistant Business Development Manager, Li Tong Group
 					</p>
-					<blockquote class="speaker_topics">Closed Loop Electric Vehicle Battery Recycling Solution</blockquote>
+					<blockquote class="speaker_topics">EV Batteries Recycling</blockquote>
 				</div>
 			</div>
 			
@@ -340,15 +340,15 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/Quennie Liu.jpeg" style="width:100%">
+						<img src="images/speakers/Shervin Sharghy.jpeg" style="width:100%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Dr. Quennie Liu </a> <br>
-						Senior Sustainability Manager, A Plastic Ocean Foundation
+						<a href="#" target="_blank">Mr. Shervin Sharghy</a> <br>
+						 Industry Advisor (Circular Economy and Recycling) of A Plastic Ocean Foundation, Co-founder and CEO of EcoBricks
 					</p>
-					<blockquote class="speaker_topics">The Potential of Alternative Materials in Replacing Sea Sands</blockquote>
+					<blockquote class="speaker_topics">From Plastic to Bricks - innovative use of plastic waste</blockquote>
 				</div>
 			</div>
 			
