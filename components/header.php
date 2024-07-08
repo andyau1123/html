@@ -9,58 +9,58 @@
                     <img src="images/speed.jpg" class="img-responsive logo" alt="speed">
                 </div>
                 <div class="grid-img">
-                    <img src="images/HSUHK_Logo.jpg" class="img-responsive logo" alt="HSUHK">
+                    <img src="images/HSUHK_logo.jpg" class="img-responsive logo" alt="HSUHK">
                 </div>
                 <div class="grid-img">
-                    <img src="images/THEi_Logo.png" class="img-responsive logo" alt="THEi">
+                    <img src="images/THEi_logo.png" class="img-responsive logo" alt="THEi">
                 </div>
 				<div class="grid-img">
-                    <img src="images/HKCU_Logo.jpg" class="img-responsive logo" alt="HKCU">
+                    <img src="images/HKCU_logo.jpg" class="img-responsive logo" alt="HKCU">
                 </div>
                 <!-- <div class="grid-img">
-                    <img src="images/SZU_Logo.jpeg" class="img-responsive logo" alt="SZU">
+                    <img src="images/SZU_logo.jpeg" class="img-responsive logo" alt="SZU">
                 </div> -->
                 <!--<div class="grid-img">
-                    <img src="images/IFTM_CI_Logo.jpg" class="img-responsive logo" alt="IFTM_CI">
+                    <img src="images/IFTM_CI_logo.jpg" class="img-responsive logo" alt="IFTM_CI">
                 </div> -->
                 <div class="grid-img">
                     <img src="images/UIC-logo.jpg" class="img-responsive logo" alt="UIC">
                 </div>
                 <div class="grid-img">
-                    <img src="images/CCAPPTIA_Logo.jpeg" class="img-responsive logo" alt="CCAPPTIA">
+                    <img src="images/CCAPPTIA_logo.jpeg" class="img-responsive logo" alt="CCAPPTIA">
                 </div>
                 <!-- <div class="grid-img">
-                    <img src="images/IOS_Logo.jpg" class="img-responsive logo" alt="IOS">
+                    <img src="images/IOS_logo.jpg" class="img-responsive logo" alt="IOS">
                 </div>-->
                 <div class="grid-img">
-                    <img src="images/HKSTLA_Logo.png" class="img-responsive logo" alt="HKSTLA">
+                    <img src="images/HKSTLA_logo.png" class="img-responsive logo" alt="HKSTLA">
                 </div>
                 <div class="grid-img">
-                    <img src="images/PRISC Logo.png" class="img-responsive logo" alt="PRISC">
+                    <img src="images/PRISC logo.png" class="img-responsive logo" alt="PRISC">
                 </div>
                 <!-- <div class="grid-img">
-                    <img src="images/FGBILSCI_Logo.png" class="img-responsive logo" alt="FGBILSCI">
+                    <img src="images/FGBILSCI_logo.png" class="img-responsive logo" alt="FGBILSCI">
                 </div> -->
                 <div class="grid-img">
-                    <img src="images/HKIE_LED_Logo.png" class="img-responsive logo" alt="HKIE_LED">
+                    <img src="images/HKIE_LED_logo.png" class="img-responsive logo" alt="HKIE_LED">
                 </div>
                 <div class="grid-img">
                     <img src="images/HKMM.jpg" class="img-responsive logo" alt="HKMM">
                 </div>
                 <!-- <div class="grid-img">
-                    <img src="images/ICMS_Logo.png" class="img-responsive logo" alt="ICMS">
+                    <img src="images/ICMS_logo.png" class="img-responsive logo" alt="ICMS">
                 </div> -->
                 <div class="grid-img">
-                    <img src="images/RCGB_Logo.png" class="img-responsive logo" alt="RCGB">
+                    <img src="images/RCGB_logo.png" class="img-responsive logo" alt="RCGB">
                 </div>
                 <!-- <div class="grid-img">
-                    <img src="images/CBEA_Logo.png" class="img-responsive logo" alt="CBEA">
+                    <img src="images/CBEA_logo.png" class="img-responsive logo" alt="CBEA">
                 </div> -->
                 <!-- <div class="grid-img">
-                    <img src="images/CMI_Logo.jpg" class="img-responsive logo" alt="CBEA">
+                    <img src="images/CMI_logo.jpg" class="img-responsive logo" alt="CBEA">
                 </div> -->
                 <div class="grid-img">
-                    <img src="images/HKAVRAR_Logo.png" class="img-responsive logo" alt="HKAVRAR">
+                    <img src="images/HKAVRAR_logo.png" class="img-responsive logo" alt="HKAVRAR">
                 </div>
 				<div class="grid-img">
                     <img src="images/AHKGT_logo.png" class="img-responsive logo" alt="AHKGT">
@@ -75,10 +75,13 @@
                     <img src="images/HAESCO_logo.jpg" class="img-responsive logo" alt="HAESCO">
                 </div>
 				<div class="grid-img">
-                    <img src="images/SustainableLab_Logo.png" class="img-responsive logo" alt="SustainableLab">
+                    <img src="images/SustainableLab_logo.png" class="img-responsive logo" alt="SustainableLab">
                 </div>
 				<div class="grid-img">
                     <img src="images/The_Nature_Conservancy_logo.jpg" class="img-responsive logo" alt="TheNatureConservancy">
+                </div>
+				<div class="grid-img">
+                    <img src="images/EcoBricks.jpg" class="img-responsive logo" alt="EcoBricks">
                 </div>
             </div>
         </div>

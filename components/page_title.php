@@ -1,4 +1,4 @@
-<?php
+x<?php
     $speakerPage = "Speaker";
     $callForPaperPage = "Call for paper";
     $registrationPage = "Registration";

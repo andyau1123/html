@@ -105,7 +105,7 @@
             <br />
 			<br/>
 			<hr>
-			<img src="images/economies_Logo.jpg" style="width:70%" />
+			<img src="images/economies_logo.jpg" style="width:70%" />
 			<br/>
 			<h2 style="color: #111177;">Economies - E-Commerce and E-Supply Chain Management</h2>
 			<span><i><a href="https://www.mdpi.com/journal/economies/special_issues/079N5618N9" target="_blank">Click here</a>&nbsp;to checkout this special issue</i></span>

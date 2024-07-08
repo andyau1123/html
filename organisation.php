@@ -372,7 +372,7 @@
                 <a 
                   href="https://hkstla.org/zh/homepage-%E4%B8%AD%E6%96%87-%E9%A6%99%E6%B8%AF/"
                   target="_blank">
-                  <img src="images/HKSTLA_Logo.png" alt="" srcset="" style="width: 100%; height:auto;">
+                  <img src="images/HKSTLA_logo.png" alt="" srcset="" style="width: 100%; height:auto;">
                 </a>
                 <br/><br/>
                 <span>
@@ -383,7 +383,7 @@
               <a 
                 href="http://seatransport.org/"
                 target="_blank">
-                  <img src="images/IOS_Logo.jpg" alt="" srcset="" style="width: 70%; height:auto;">
+                  <img src="images/IOS_logo.jpg" alt="" srcset="" style="width: 70%; height:auto;">
               </a>
               <br/><br/>
               <span>
@@ -394,7 +394,7 @@
               <a 
                   href="https://www.ccapptia.com/"
                   target="_blank">
-                    <img src="images/CCAPPTIA_Logo.jpeg" alt="" srcset="" style="width: 70%; height:auto;">
+                    <img src="images/CCAPPTIA_logo.jpeg" alt="" srcset="" style="width: 70%; height:auto;">
                 </a>
                 <br/><br/>
                 <span>
@@ -405,7 +405,7 @@
               <a
                   href="https://www.cbea.com.hk/?lang=en"
                   target="_blank">
-                    <img src="images/CBEA_Logo.png" alt="" srcset="" style="width: 70%; height:auto;">
+                    <img src="images/CBEA_logo.png" alt="" srcset="" style="width: 70%; height:auto;">
                 </a>
                 <br/><br/>
                 <span>
@@ -438,7 +438,7 @@
               <a 
                 href="https://hkavrar.com/"
                 target="_blank">
-                  <img src="images/HKAVRAR_Logo.png" alt="" srcset="" style="width: 70%; height:auto;">
+                  <img src="images/HKAVRAR_logo.png" alt="" srcset="" style="width: 70%; height:auto;">
               </a>
               <br/><br/>
               <span>
@@ -452,7 +452,7 @@
                 <a 
                   href="http://www.filsci.org/"
                   target="_blank">
-                  <img src="images/FGBILSCI_Logo.png" alt="" srcset="" style="width: 100%; height:auto;">
+                  <img src="images/FGBILSCI_logo.png" alt="" srcset="" style="width: 100%; height:auto;">
                 </a>
                 <br/><br/>
                 <span>
@@ -463,7 +463,7 @@
               <a 
                 href="https://www.hkie.org.hk/en/quali/discipline_detail/15/"
                 target="_blank">
-                  <img src="images/HKIE_LED_Logo.png" alt="" srcset="" style="width: 70%; height:auto;">
+                  <img src="images/HKIE_LED_logo.png" alt="" srcset="" style="width: 70%; height:auto;">
               </a>
               <br/><br/>
               <span>
@@ -485,7 +485,7 @@
               <a
                   href="https://lms-icms.polyu.edu.hk/"
                   target="_blank">
-                    <img src="images/ICMS_Logo.png" alt="" srcset="" style="width: 70%; height:auto;">
+                    <img src="images/ICMS_logo.png" alt="" srcset="" style="width: 70%; height:auto;">
                 </a>
                 <br/><br/>
                 <span>
@@ -518,7 +518,7 @@
               <a 
                 href="https://www.instagram.com/sustainablelab.hk/"
                 target="_blank">
-                  <img src="images/SustainableLab_Logo.png" alt="" srcset="" style="width: 100%; height:auto;">
+                  <img src="images/SustainableLab_logo.png" alt="" srcset="" style="width: 100%; height:auto;">
               </a>	<!--unknown website to find -->
               <br/><br/>
               <span>
@@ -532,7 +532,7 @@
                 <a 
                   href="https://prisc.hsu.edu.hk/"
                   target="_blank">
-                  <img src="images/PRISC Logo.png" alt="" srcset="" style="width: 100%; height:auto;">
+                  <img src="images/PRISC logo.png" alt="" srcset="" style="width: 100%; height:auto;">
                 </a>
                 <br/><br/>
                 <span>
@@ -543,7 +543,7 @@
               <a 
                 href="https://rcgb.speed-polyu.edu.hk/"
                 target="_blank">
-                  <img src="images/RCGB_Logo.png" alt="" srcset="" style="width: 70%; height:auto;">
+                  <img src="images/RCGB_logo.png" alt="" srcset="" style="width: 70%; height:auto;">
               </a>
               <br/><br/>
               <span>
@@ -554,7 +554,7 @@
               <a 
                 href="https://rcgb.speed-polyu.edu.hk/"
                 target="_blank">
-                  <img src="images/CMI_Logo.jpg" alt="" srcset="" style="width: 70%; height:auto;">
+                  <img src="images/CMI_logo.jpg" alt="" srcset="" style="width: 70%; height:auto;">
               </a>
               <br/><br/>
               <span>

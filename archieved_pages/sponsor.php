@@ -41,7 +41,7 @@
                                             <a href="https://www.travrhk.com/" target="_blank">
                                                 <div class="img-container">
                                                 <div style="position: absolute;bottom: 0;width: 100%;text-align: center;"><span style="color:#000000;background: #61c0e0;font-size:10px;"></span></div>
-                                                    <img src="images/sponsors/TRAVR_Logo.jpg" alt="" style="width:100%">
+                                                    <img src="images/sponsors/TRAVR_logo.jpg" alt="" style="width:100%">
                                                     <div class="overlay">
                                                         <div class="text">TRAVRHK</div>
                                                     </div>
@@ -55,7 +55,7 @@
                                             <a href="http://ram-chem.com/" target="_blank">
                                                 <div class="img-container">
                                                 <div style="position: absolute;bottom: 0;width: 100%;text-align: center; "><span style="color:#000000;background: #61c0e0;font-size:10px;"></span></div>
-                                                    <img src="images/sponsors/Rambo_Chemical_Logo.jpg" alt="" style="width:100%; margin-top: 18%;">
+                                                    <img src="images/sponsors/Rambo_Chemical_logo.jpg" alt="" style="width:100%; margin-top: 18%;">
                                                     <div class="overlay">
                                                         <div class="text">Rambo Chemicals (H.K.) Limited</div>
                                                     
@@ -69,7 +69,7 @@
                                               <a href="https://soqqle.com/" target="_blank">
                                                   <div class="img-container">
                                                   <div style="position: absolute;bottom: 0;width: 100%;text-align: center; "><span style="color:#000000;background: #61c0e0;font-size:10px;"></span></div>
-                                                      <img src="images/sponsors/Soggle_Logo.jpg" alt="" style="width:100%; margin-top: 18%; background-color: #000000;">
+                                                      <img src="images/sponsors/Soggle_logo.jpg" alt="" style="width:100%; margin-top: 18%; background-color: #000000;">
                                                       <div class="overlay">
                                                           <div class="text">Soqqle Pte. Limited</div>
                                                   </div>

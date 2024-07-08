@@ -35,7 +35,7 @@
 		<!-- Main component for a primary marketing message or call to action -->
 		<div class="jumbotron">
 
-            <img src="images/sustainability_Logo.jpeg" style="width:70%" />
+            <img src="images/sustainability_logo.jpeg" style="width:70%" />
             <h2 style="color: #111177;">Sustainability - Integrative Waste Management and Circular Economy: </h2>
 			<span><i><a href="https://www.mdpi.com/journal/sustainability/special_issues/7982VF829A" target="_blank">Click here</a>&nbsp;to checkout this special issue</i></span>
             <br/><br/>
