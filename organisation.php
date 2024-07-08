@@ -94,7 +94,7 @@
           target="_blank">Dr. CHAN Man Hin, Eve</a>
           <br/>
           <span>
-            Assistant Professor,</br> Department of Fashion Design, Faculty of Design and Environment, Technological and Higher Education Institute of Hong Kong
+            Programme Leader and Assistant Professor,</br> Department of Design and Architecture, Fashion Design Technological and Higher Education Institute of Hong Kong (THEi)
           </span>
       </p>
       <!--<p>
@@ -159,7 +159,7 @@
                   target="_blank">Prof. NG Adolf Koi Yu</a>
                   <br/>
                   <span>
-                    Acting Dean and Chair Professor,</br> Faculty of Business and Management, BNU-HKBU United International College
+                    Dean and Chair Professor,</br> Faculty of Business and Management, BNU-HKBU United International College
                   </span>
               </p>
             </td>
@@ -427,7 +427,7 @@
               <a 
                   href="https://gbatalents.org/"
                   target="_blank">
-                    <img src="images/GBATA_logo.jpg" alt="" srcset="" style="width: 70%; height:auto;">
+                    <img src="images/GBATA_logo.jpg" alt="" srcset="" style="width: 90%; height:;">
                 </a>
                 <br/><br/>
                 <span>
@@ -528,7 +528,6 @@
           </tr>
 
           <tr>
-		  <td></td>
             <td class="col-md-1 text-center">
                 <a 
                   href="https://prisc.hsu.edu.hk/"
@@ -567,13 +566,23 @@
                 href="https://industrialhistoryhk.org/hong-kong-glove-manufacturers/"
                 target="_blank">
                   <img src="images/AHKGT_logo.png" alt="" srcset="" style="width: 70%; height:auto;">
-              </a> <!--unknown website to find -->
+              </a> 
               <br/><br/>
               <span>
               The Association of Hong Kong Gloves Trader
               </span>
             </td>
-			<td></td>
+			<td class="col-md-1 text-center">
+				<a 
+                href="https://www.ecobricks.asia/"
+                target="_blank">
+                  <img src="images/EcoBricks.jpg" alt="" srcset="" style="width: 60%; height:auto;">
+				</a> 
+				<br/><br/>
+				<span>
+				EcoBricks
+				</span>
+			</td>
           </tr>
         </tbody>
       </table>

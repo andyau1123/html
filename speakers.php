@@ -99,7 +99,7 @@
 						<a href="#" target="_blank">Ms. Kayley Leung </a> <br>
 						Director & Founder of Sustainable Lab HK
 					</p>
-					<blockquote class="speaker_topics">HK Food Waste Management: Disposal VS Reborn Company</blockquote>
+					<blockquote class="speaker_topics">HK Food Waste Management: Disposal VS Reborn</blockquote>
 				</div>
 			</div>
 			
@@ -130,6 +130,21 @@
 						Assistant Conservation Manager of The Nature Conservancy Hong Kong
 					</p>
 					<blockquote class="speaker_topics">The Nature Conservancy "Save Our Shells" Project - Progress Updates, Lesson Learnt, Challenges, and The Way Forward</blockquote>
+				</div>
+			</div>
+			
+			<div class="row speaker">
+				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
+					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
+						<img src="images/speakers/Shervin Sharghy.jpeg" style="width:100%">
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+					<p>
+						<a href="#" target="_blank">Mr. Shervin Sharghy</a> <br>
+						 Industry Advisor (Circular Economy and Recycling) of A Plastic Ocean Foundation, Co-founder and CEO of EcoBricks
+					</p>
+					<blockquote class="speaker_topics">From Plastic to Bricks - innovative use of plastic waste</blockquote>
 				</div>
 			</div>
 			<!-- Keynote Speakers - SECTION Food, Plastic, and Packaging Waste - END -->
@@ -270,7 +285,22 @@
 						<a href="#" target="_blank">Mr. YU Shing Chung, John</a> <br>
 						Professional Member of Hong Kong Sea Transport and Logistics Association (HKSTLA); Head of Operations, Aramex Hong Kong Limited
 					</p>
-					<blockquote class="speaker_topics">Achieving Resilience and Sustainability for the Electric Vehicle Battery Supply Chain</blockquote>
+					<blockquote class="speaker_topics">Navigating the Path to Sustainability: Aramex's Journey</blockquote>
+				</div>
+			</div>
+
+			<div class="row speaker">
+				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
+					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
+						<img src="images/speakers/WONG_Yin_Cheung.jpeg" style="width:100%">
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+					<p>
+						<a href="#" target="_blank">Dr. WONG Yin Cheung</a> <br>
+						Associate Head and Associate Professor, Department of Supply Chain and Information Management, The Hang Seng University of Hong Kong
+					</p>
+					<blockquote class="speaker_topics">Carbon Footprint and Renewable Energy in Transport Logistics and Consumer Products</blockquote>
 				</div>
 			</div>			
 			<!-- Keynote Speakers - SECTION Electric Vehicle Waste - END -->
@@ -340,30 +370,15 @@
 			<div class="row speaker">
 				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
 					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/Shervin Sharghy.jpeg" style="width:100%">
+						<img src="images/speakers/Kenny_Siu.jpeg" style="width:110%">
 					</div>
 				</div>
 				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
 					<p>
-						<a href="#" target="_blank">Mr. Shervin Sharghy</a> <br>
-						 Industry Advisor (Circular Economy and Recycling) of A Plastic Ocean Foundation, Co-founder and CEO of EcoBricks
+						<a href="#" target="_blank">Dr. Sr. Kenny Siu </a> <br>
+						Committee Member of GBA Carbon Neutrality Association
 					</p>
-					<blockquote class="speaker_topics">From Plastic to Bricks - innovative use of plastic waste</blockquote>
-				</div>
-			</div>
-			
-			<div class="row speaker">
-				<div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-					<div class="img-rounded" style="box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.2);">
-						<img src="images/speakers/Henry_Ngai.jpeg" style="width:100%">
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
-					<p>
-						<a href="#" target="_blank">Mr. Henry Ngai </a> <br>
-						CEO of BE Green Technology Limited
-					</p>
-					<blockquote class="speaker_topics">The Technology, Development, and Market Application of Smart Recycling</blockquote>
+					<blockquote class="speaker_topics">Exploring Carbon Credit Market</blockquote>
 				</div>
 			</div>
 			<!-- Keynote Speakers - SECTION Construction Material Waste - END -->

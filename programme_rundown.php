@@ -290,9 +290,10 @@
 					<tr>
                         <td colspan="1" class="firstcol"><b>09:30-10:00</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
-                            <b>Keynote Speech (10)</b><br/>
-                            <b><u>TBC</u></b><br/>
-                           
+                            <b>Keynote Speech (11)</b><br/>
+                            <b><u>Dr. WONG Yin Cheung </u></b><br/>
+                            <b>Associate Head and Associate Professor, Department of Supply Chain and Information Management, The Hang Seng University of Hong Kong</b></br>
+							<b>Topic: Carbon Footprint and Renewable Energy in Transport Logistics and Consumer Products</b>
                        </td>
 					</tr>
 					
@@ -302,7 +303,7 @@
                             <b>Keynote Speech (12)</b><br/>
                             <b><u>Mr. John Yu </u></b><br/>
                             <b>Head of Operations, Aramex Hong Kong Limited</b></br>
-							<b>Topic:  Navigating the Path to Sustainability: Aramex's Journey</b>
+							<b>Topic: Navigating the Path to Sustainability: Aramex's Journey</b>
                        </td>
 					</tr>
 					
@@ -400,9 +401,9 @@
                         <td colspan="1" class="firstcol"><b>16:00-16:30</b></td>
                         <td colspan="7" style="text-align:left;line-height: 1.8">
                             <b>Keynote Speech (19)</b><br/>
-                            <b><u>Mr. Henry Ngai </u></b><br/>
-                            <b>CEO of BE Green Technology Limited</b></br>
-							<b>Topic: The Technology, Development, and Market Application of Smart Recycling</b>
+                            <b><u>Dr. Sr. Kenny Siu </u></b><br/>
+                            <b>Committee Member of GBA Carbon Neutrality Association</b></br>
+							<b>Topic: Exploring Carbon Credit Market</b>
                        </td>
 					</tr>
 					
